@@ -8,6 +8,7 @@
 /bin
 bin/
 build/
+classes/
 
 # Intellij files
 .idea
